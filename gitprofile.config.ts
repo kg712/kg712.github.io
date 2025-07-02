@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Designed experiments to track acidity, turbidity, and conductivity in coconut water over time, using the results to recommend improvements for shelf life and quality control in the beverage industry.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://drive.google.com/file/d/1Ea2gfWHMdIFrBRiywqvIIMSLFgS_vBG4/view?usp=sharing',
           link: 'https://drive.google.com/file/d/1IUtyir2H0k8jypkFHIqsatPfIyAV_3LP/view?usp=sharing',
         },
         {
@@ -69,7 +69,7 @@ const CONFIG = {
           description:
             'Conducted experiments on how external temperature affects the liquid-to-solid transition of wax, analyzing phase change rates to draw insights for temperature-sensitive materials and applications.',
           imageUrl:
-            '<a href="https://ibb.co/4wwtk7qy"><img src="https://i.ibb.co/4wwtk7qy/Screenshot-2025-07-02-at-14-35-23.png" alt="Screenshot-2025-07-02-at-14-35-23" border="0"></a>',
+            'https://ibb.co/4wwtk7qy"><img src="https://i.ibb.co/4wwtk7qy/Screenshot-2025-07-02-at-14-35-23.png',
           link: 'https://drive.google.com/file/d/1RcGX4OZwS1NyXE6hQTcYMclKoBLfz9j-/view?usp=sharing',
         },
       ],
