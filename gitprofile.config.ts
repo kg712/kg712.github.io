@@ -54,7 +54,7 @@ const CONFIG = {
             'Wrote a 20-page paper using game theory, data analysis, and mathematical modeling to simulate racing scenarios and identify optimal strategies through the Grand Hotel Hairpin in Formula 1.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'kmdka',
+          link: 'https://drive.google.com/file/d/1CISe7X05FUrKFDwGYb16jxXVFf9xAuQW/view?usp=sharing',
         },
         {
           title: 'Coconut Water Quality Analysis',
@@ -62,15 +62,15 @@ const CONFIG = {
             'Designed experiments to track acidity, turbidity, and conductivity in coconut water over time, using the results to recommend improvements for shelf life and quality control in the beverage industry.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'ksfm',
+          link: 'https://drive.google.com/file/d/1IUtyir2H0k8jypkFHIqsatPfIyAV_3LP/view?usp=sharing',
         },
         {
           title: 'Wax Phase Transition Study',
           description:
             'Conducted experiments on how external temperature affects the liquid-to-solid transition of wax, analyzing phase change rates to draw insights for temperature-sensitive materials and applications.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'ksd',
+            '<a href="https://ibb.co/4wwtk7qy"><img src="https://i.ibb.co/4wwtk7qy/Screenshot-2025-07-02-at-14-35-23.png" alt="Screenshot-2025-07-02-at-14-35-23" border="0"></a>',
+          link: 'https://drive.google.com/file/d/1RcGX4OZwS1NyXE6hQTcYMclKoBLfz9j-/view?usp=sharing',
         },
       ],
     },
