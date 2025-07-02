@@ -33,20 +33,44 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '3 axis CNC Plotter',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Built a 3-axis CNC plotter using LEGO and RobotC to automate precise letter drawings from a text file.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/kg712/3-Axis-CNC-Plotter',
         },
         {
-          title: 'Project Name',
+          title: 'Solar-Powered Hydrogen Fuel Cell',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Designed and tested a solar-powered hydrogen fuel cell system, optimizing hydrogen generation through design adjustments, electrolyte tuning and alternative electrode materials.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://drive.google.com/file/d/1fEwMpo_4fX5zdjowoA3aMmfdy01LnWTI/view?usp=sharing',
+        },
+        {
+          title: 'Racing Line Optimization at Circuit De Monaco',
+          description:
+            'Wrote a 20-page paper using game theory, data analysis, and mathematical modeling to simulate racing scenarios and identify optimal strategies through the Grand Hotel Hairpin in Formula 1.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'kmdka',
+        },
+        {
+          title: 'Coconut Water Quality Analysis',
+          description:
+            'Designed experiments to track acidity, turbidity, and conductivity in coconut water over time, using the results to recommend improvements for shelf life and quality control in the beverage industry.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'ksfm',
+        },
+        {
+          title: 'Wax Phase Transition Study',
+          description:
+            'Conducted experiments on how external temperature affects the liquid-to-solid transition of wax, analyzing phase change rates to draw insights for temperature-sensitive materials and applications.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'ksd',
         },
       ],
     },
@@ -124,6 +148,7 @@ const CONFIG = {
       conferenceName: 's',
       journalName: 'd',
       authors: 'd',
+      link: 'https://www.linkedin.com/in/kovidg0712/',
       description: `Hey, I’m Kovid, a Mechatronics Engineering student at the University of Waterloo who’s all about turning ideas into working systems. I love blending hardware and software to build things that are clever, useful, and a little bit exciting.
         
         From circuits to code, I enjoy the full process of creating, breaking problems down, experimenting with solutions, and watching projects come to life. I learn best by getting my hands dirty, asking questions, and building alongside curious, driven people.
