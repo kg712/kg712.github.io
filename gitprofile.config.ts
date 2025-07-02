@@ -36,8 +36,7 @@ const CONFIG = {
           title: '3 axis CNC Plotter',
           description:
             'Built a 3-axis CNC plotter using LEGO and RobotC to automate precise letter drawings from a text file.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          imageUrl: 'https://i.ibb.co/twvPzYpM/PHOTO-2024-11-21-16-47-28.jpg',
           link: 'https://github.com/kg712/3-Axis-CNC-Plotter',
         },
         {
@@ -45,7 +44,7 @@ const CONFIG = {
           description:
             'Designed and tested a solar-powered hydrogen fuel cell system, optimizing hydrogen generation through design adjustments, electrolyte tuning and alternative electrode materials.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://i.ibb.co/nqtSrqF4/Screenshot-2025-07-02-at-15-03-46.png',
           link: 'https://drive.google.com/file/d/1fEwMpo_4fX5zdjowoA3aMmfdy01LnWTI/view?usp=sharing',
         },
         {
@@ -53,7 +52,7 @@ const CONFIG = {
           description:
             'Wrote a 20-page paper using game theory, data analysis, and mathematical modeling to simulate racing scenarios and identify optimal strategies through the Grand Hotel Hairpin in Formula 1.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://i.ibb.co/ccPmk4Qn/Screenshot-2025-07-02-at-14-58-49.png',
           link: 'https://drive.google.com/file/d/1CISe7X05FUrKFDwGYb16jxXVFf9xAuQW/view?usp=sharing',
         },
         {
@@ -61,7 +60,7 @@ const CONFIG = {
           description:
             'Designed experiments to track acidity, turbidity, and conductivity in coconut water over time, using the results to recommend improvements for shelf life and quality control in the beverage industry.',
           imageUrl:
-            'https://drive.google.com/file/d/1Ea2gfWHMdIFrBRiywqvIIMSLFgS_vBG4/view?usp=sharing',
+            'https://i.ibb.co/j9p9gX05/Screenshot-2025-07-02-at-14-57-03.png',
           link: 'https://drive.google.com/file/d/1IUtyir2H0k8jypkFHIqsatPfIyAV_3LP/view?usp=sharing',
         },
         {
@@ -69,7 +68,7 @@ const CONFIG = {
           description:
             'Conducted experiments on how external temperature affects the liquid-to-solid transition of wax, analyzing phase change rates to draw insights for temperature-sensitive materials and applications.',
           imageUrl:
-            'https://ibb.co/4wwtk7qy"><img src="https://i.ibb.co/4wwtk7qy/Screenshot-2025-07-02-at-14-35-23.png',
+            'https://i.ibb.co/4wwtk7qy/Screenshot-2025-07-02-at-14-35-23.png',
           link: 'https://drive.google.com/file/d/1RcGX4OZwS1NyXE6hQTcYMclKoBLfz9j-/view?usp=sharing',
         },
       ],
